@@ -1,1 +1,1 @@
-## live demp : https://hsg5533.github.io/racer/
+## live demo : https://hsg5533.github.io/racer/
